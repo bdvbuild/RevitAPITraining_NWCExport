@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_NWCExport.dll"</Assembly>
+		<AddInId>F700283C-2CF6-4680-B324-DC73EA6947E5</AddInId>
+		<FullClassName>RevitAPITraining_NWCExport.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>8.2 NWC Экспорт</Text>
+	</AddIn>
+</RevitAddIns>
